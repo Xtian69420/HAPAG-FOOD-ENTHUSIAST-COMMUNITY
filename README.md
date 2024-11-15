@@ -48,6 +48,7 @@ Follow these simple steps to get started with **Hapag**:
 
 ## 🌏 Join the Movement
 Be part of a growing community that celebrates the **heart and soul of Filipino cuisine**.
+
 ---
 
 ## ❤️ Contribute
