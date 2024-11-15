@@ -51,6 +51,7 @@ Be part of a growing community that celebrates the **heart and soul of Filipino 
 ---
 
 ## ❤️ Contribute
+
 Want to help improve Hapag?  
 
 - Report bugs or suggest features [here](#).  
