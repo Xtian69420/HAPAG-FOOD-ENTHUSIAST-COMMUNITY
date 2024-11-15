@@ -47,20 +47,17 @@ Follow these simple steps to get started with **Hapag**:
 ---
 
 ## 🌏 Join the Movement
-Be part of a growing community that celebrates the **heart and soul of Filipino cuisine**. Follow us on:  
-
-- **[Facebook](#)**  
-- **[Instagram](#)**  
-- **[Twitter](#)**  
-
+Be part of a growing community that celebrates the **heart and soul of Filipino cuisine**.
 ---
 
 ## ❤️ Contribute
 Want to help improve Hapag?  
 
 - Report bugs or suggest features [here](#).  
-- Share your thoughts with the team via **email**.  
+- Share your thoughts with the team
 
 ---
 
 **_Mabuhay and happy cooking!_** 🍽️
+
+This is a School Capstone Project©
