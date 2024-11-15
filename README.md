@@ -32,8 +32,8 @@ _Hapag_ is more than just a recipe app. It’s a **digital kitchen table** where
 ---
 
 ## 📷 Sneak Peek
-![Hapag App Screenshot 1](https://imgur.com/s8POQW9)
-![Hapag App Screenshot 2](https://imgur.com/nuJG5ID)
+![Hapag App Screenshot 1](https://i.imgur.com/s8POQW9)
+![Hapag App Screenshot 2](https://i.imgur.com/nuJG5ID)
 
 ---
 
