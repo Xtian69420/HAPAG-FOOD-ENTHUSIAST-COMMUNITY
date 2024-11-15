@@ -63,9 +63,4 @@ Want to help improve Hapag?
 
 ---
 
-## 📄 License
-Hapag is licensed under the [MIT License](LICENSE).
-
----
-
 **_Mabuhay and happy cooking!_** 🍽️
