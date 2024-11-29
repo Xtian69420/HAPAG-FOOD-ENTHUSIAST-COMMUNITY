@@ -10,9 +10,7 @@ Hapag is a mobile app that redefines the way we connect through food, tailored t
 - 📜 **Post Recipes**: Share your favorite Filipino dishes, from _adobo_ to _halo-halo_.  
 - 🗣️ **Discuss Cooking Insights**: Exchange tips, techniques, and food hacks with others.  
 - ❤️ **Engage with the Community**: Like, comment, and share recipes you love.  
-
 ---
-
 ## ✨ Features at a Glance
 
 - **👩‍🍳 Recipe Sharing**: Post step-by-step guides of your dishes with photos and tips.  
